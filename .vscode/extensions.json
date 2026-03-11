@@ -1,4 +1,6 @@
 {
-  "verilog.linting.linter": "verilator",
-  "verilog.formatting.verilogHDL.formatter": "verible-verilog-format"
+  "recommendations": [
+    "mshr-h.veriloghdl",
+    "surfer-project.surfer"
+  ]
 }
