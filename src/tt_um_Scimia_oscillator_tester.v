@@ -1,7 +1,7 @@
 /*
  * Copyright (c) 2024 Pietro Paolo Scimia
  * SPDX-License-Identifier: Apache-2.0
-
+ */
 
 `default_nettype none
 
@@ -35,4 +35,4 @@ module tt_um_Scimia_oscillator_tester (
   wire _unused = &{ena, ui_in[7:1], uio_in, 1'b0};
 
 endmodule
- */
+ 
